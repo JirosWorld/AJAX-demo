@@ -1,0 +1,19 @@
+{
+  "name": "ajax-lesje",
+  "version": "1.0.0",
+  "description": "Een demo",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "jiro",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "give-me-a-joke": "^0.5.1"
+  }
+}

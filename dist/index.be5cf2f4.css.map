@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["src/styles.css"],"sourcesContent":["body {\n    font-family: sans-serif;\n    font-size: 1.1em;\n}\npre {\n    background-color: lightblue;\n    border: 2px solid lightskyblue;\n}"],"names":[],"version":3,"file":"index.be5cf2f4.css.map","sourceRoot":"/__parcel_source_root/"}

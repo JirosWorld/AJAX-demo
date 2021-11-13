@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+    font-size: 1.1em;
+}
+pre {
+    background-color: lightblue;
+    border: 2px solid lightskyblue;
+}
